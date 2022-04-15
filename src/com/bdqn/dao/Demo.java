@@ -22,8 +22,7 @@ public class Demo {
          Scanner sc = new Scanner(System.in);
 
          String str = sc.next();
-
-
+         String d ="sdvcsdc";
          dos.close();
          s.close();
      } catch (IOException e) {
