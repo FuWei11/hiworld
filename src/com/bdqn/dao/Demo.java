@@ -20,7 +20,7 @@ public class Demo {
 
          //使用Scanner读取控制台的输入，并发送到服务端
          Scanner sc = new Scanner(System.in);
-
+//这位是测试拉去最新的数据
          String str = sc.next();
          String d ="sdvcsdc";
          dos.close();
