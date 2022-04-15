@@ -22,13 +22,10 @@ public class Demo {
          Scanner sc = new Scanner(System.in);
 
          String str = sc.next();
-         dos.writeUTF(str);
+
 
          dos.close();
          s.close();
-     } catch (UnknownHostException e) {
-         // TODO Auto-generated catch block
-         e.printStackTrace();
      } catch (IOException e) {
          // TODO Auto-generated catch block
          e.printStackTrace();
